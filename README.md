@@ -3,10 +3,11 @@
 
 <p>I'm ABESSOLO Christ, here is <b>about me</b>:</p>
 
-- 📚 &nbsp; Student at ECE Paris, digital engineering school
+- 📚 &nbsp; Student at [ECE Paris](https://www.ece.fr/), digital engineering school
 - 🧑🏽‍💻 &nbsp; Passionate about web development and new technologies
-- 🔍 &nbsp; I spend most of my time learning new languages 
+- 🔍 &nbsp; I spend most of my time learning new languages and I love it 
 - 🎮 &nbsp; I like video games - Chess, Fifa, Call of duty, etc.
+- 💦 &nbsp; I like working with oder people
 
 **languages and tools:**  
 
@@ -30,5 +31,5 @@
 <a href="https://www.linkedin.com/in/christ-rova-abessolo-903aa1244/">
   <img align="left" alt="Abessolo's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
- <p>Thank you for visiting, see you !</p>
+ 
+ **Thank you for visiting, see you 😎!**
