@@ -26,10 +26,10 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RovaEncoder&show_icons=true&theme=blue-green)
 
 
-<br>
 <h4>Follow me on</h4>
+
 <a href="https://www.linkedin.com/in/christ-rova-abessolo-903aa1244/">
-  <img align="left" alt="Abessolo's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Abessolo's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  
  
  **Thank you for visiting, see you 😎!**
