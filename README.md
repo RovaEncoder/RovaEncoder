@@ -23,7 +23,7 @@
 
 <p>📈 <b>my github stats</b></p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RovaEncoder&show_icons=true&theme=blue-green)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RovaEncoder&show_icons=true&theme=radical)
 
 
 <h4>Follow me on</h4>
